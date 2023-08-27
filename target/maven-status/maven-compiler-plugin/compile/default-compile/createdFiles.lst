@@ -1,0 +1,4 @@
+com/example/MongoDemo/model/Person.class
+com/example/MongoDemo/repositories/PersonRepository.class
+com/example/MongoDemo/MongoDemoApplication.class
+com/example/MongoDemo/model/AbstractDocument.class
